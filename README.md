@@ -59,5 +59,5 @@ Building responsive UI with basic design elements
 
 
 ## 📝 Note: 
-**This project is for learning purposes only and was developed by following a Udemy tutorial.**
+**This project is for learning purposes only and was developed by following a Udemy lesson with adaptation from tutorial.**
 
